@@ -28,3 +28,8 @@ The model was developed in MATLAB and DWSIM using CoolProp for thermophysical pr
 - Gained experience with ORC cycle thermodynamics
 - Learned DWSIM–MATLAB integration via CoolProp
 - Understood exergy analysis and optimization
+
+## 📄 Project Report
+
+You can access the full report here:  
+[📘 **Thermodynamic Analysis of Organic Rankine Cycle (ORC) Report**](ORC_Analysis.pdf)
